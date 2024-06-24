@@ -22,5 +22,5 @@
     - 3–5 Tablespoons (45-75ml) heavy cream (or half-and-half or milk), at room temperature
     - 1/4 teaspoon salt
     - 1 teaspoon pure vanilla extract
-    optional for decoration: semi-sweet chocolate chips
+     optional for decoration: semi-sweet chocolate chips
 
