@@ -1,3 +1,5 @@
+Let's begin!
+
 # Ingredients for Git Test Chocolate Cake Recipe
 ## Cake
 
@@ -23,4 +25,6 @@
     - 1/4 teaspoon salt
     - 1 teaspoon pure vanilla extract
      optional for decoration: semi-sweet chocolate chips
+
+Enjoy my recipe!
 
