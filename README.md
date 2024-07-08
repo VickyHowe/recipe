@@ -17,3 +17,15 @@ last line changed locally
 # I'm a LVL 1 Header
 ### I'm a level 3 Header
 
+### Ordered List
+1. First item
+2. Second item
+3. Third item
+4. Fourth item 
+
+### Unordered List
+- First item
+- Second item
+    - Third item
+    - Fourth item 
+
