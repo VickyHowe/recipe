@@ -29,3 +29,5 @@ last line changed locally
     - Third item
     - Fourth item 
 
+
+Making some <b> words bold<b> or <i>italicized<i>.
