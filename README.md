@@ -31,3 +31,7 @@ last line changed locally
 
 
 Making some <b> words bold<b> or <i>italicized<i>.
+
+
+### <b><i>Image of Chocolate Cake <b><i>
+![Chocolate Cake Recipe!](recipe.jpg)
